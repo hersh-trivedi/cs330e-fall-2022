@@ -4,12 +4,9 @@ concept first appeared in a NATO conference in Germany in 1968 to handle softwar
 The causes of the software crisis were linked to the overall complexity of hardware 
 and the software development process. 
 The crisis manifested itself in several ways:
-•	Projects running over-budget
-•	Projects running over-time
-•	Software was very inefficient
-•	Software was of low quality
-•	Software often did not meet requirements
-•	Projects were unmanageable and code difficult to maintain
+•	Projects running over-budget and over time
+•	Software was very inefficient, of low quality, often did not meet requirements and 
+      were unmanageable and code difficult to maintain
 Source: https://en.wikipedia.org/wiki/Software_crisis
 
 Software activities (or processes) vs Software development models
