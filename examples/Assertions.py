@@ -6,6 +6,13 @@
 
 # https://docs.python.org/3/reference/simple_stmts.html#grammar-token-assert-stmt
 
+'''
+Collatz Conjecture
+1) take a pos integer
+2a) if even, divide by 2
+2b) if odd, multiply by 3 and add 1
+3) repeat until 1
+
 def cycle_length (n) :
     assert n > 0
     c = 0
